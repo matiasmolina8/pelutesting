@@ -1,3 +1,3 @@
 # pelutesting
 
-echo "Waldo gato"
+echo "Waldo gatox"
